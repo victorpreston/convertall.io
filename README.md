@@ -1,9 +1,10 @@
 <div align="center">
   <br />
     <a href="https://convertall.vercel.app/" target="_blank">
-      <img src="./public/images/project 2.jpg" style="border-radius: 10px" alt="Project Banner">
     </a>
   <br />
+  
+![Screenshot 2024-10-28 165121](https://github.com/user-attachments/assets/2bee2026-8a57-4627-aa93-77299757caed)
 
   <h3 align="center">Free Unlimited File Converter</h3>
   <div align="center">
